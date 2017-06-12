@@ -8,5 +8,6 @@ Our machine is based in a Cartesian movement system and its goal is to do a high
 The project has been focused in order to be easy to replicate and assemble. It has been built with accessible and low cost materials. Moreover, it has been designed considering the chance to adapt the main dimensions to the user necessities, which makes it useful for a large community.
 
 In this repository you can find the Step by Step Guide with all the information related with de development of this machine.
+Enter in the smARTS Step by Step folder if you are interested in it.
 
-By: Sergi Martínez, Marc Molet, Josep Pomés & Albert Rovira.
+Project Authors: Sergi Martínez, Marc Molet, Josep Pomés & Albert Rovira.
